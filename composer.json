@@ -18,8 +18,8 @@
     "minimum-stability":"dev",
     "require": {
         "php": ">=5.3",
-        "binhvd/oauth2-server-php": ">=1.0",
-        "bshaffer/oauth2-server-httpfoundation-bridge": "^1.2"
+        "binhvd/oauth2-server-php": ">=1.12.0",
+        "binhvd/oauth2-server-httpfoundation-bridge": ">=1.6"
     },
     "require-dev": {
         "symfony/symfony": ">=3",
